@@ -1,1 +1,2 @@
 printf("nihao" );
+printf;
